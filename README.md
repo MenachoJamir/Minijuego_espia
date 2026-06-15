@@ -50,9 +50,10 @@ espia_templo/
 
 > ## Capturas
 
-![Inicio del juego](espia_templo/screenshots/Captura%20de%20pantalla%202026-06-14%20205946.png)
-![Turno de preguntas](espia_templo/screenshots/Captura%20de%20pantalla%202026-06-14%20210155.png)
-
+![Pantalla de inicio](espia_templo/Captura%20de%20pantalla%202026-06-14%20205454.png)
+![Vista del juego](espia_templo/Captura%20de%20pantalla%202026-06-14%20205902.png)
+![Turno de preguntas](espia_templo/Captura%20de%20pantalla%202026-06-14%20210106.png)
+![Votación](espia_templo/Captura%20de%20pantalla%202026-06-14%20210155.png)
 ## Autor
 
 **Jamir Menacho** — Estudiante de Desarrollo de Software en SENATI, Lima, Perú  
